@@ -1,4 +1,6 @@
 # Hello-world
 first repo
 my name is rushikesh, 
-starting the journey as a developer so as obvious its my day 1 here
+starting my day as a developer, 
+i wish to give my best and get a fruitful output throught the journey
+
